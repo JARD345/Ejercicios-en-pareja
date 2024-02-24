@@ -2,7 +2,7 @@
 using namespace std;
 int main() {
 
-
+/*
 int num1,num2,num3;
 cout<<"Ingrese tres numeros para saber cual es el mayor"<<endl;
 cout<<"Ingrese el primer numero"<<endl;
@@ -19,9 +19,9 @@ if(num1>num2 & num1>num3){
 }else{
     cout<<num3<<" Es el numero mayor"<<endl;
 }
+*/
 
 
-/*
      int suma,numero1,numero2=0;
      while(numero2>=0 ) {
          cout<<"Ingresa un numero que desees sumar"<<endl;
@@ -34,7 +34,7 @@ if(num1>num2 & num1>num3){
          cout<<suma<<endl;
          numero1=suma;
      }
-     */
+     
 /*
 int u,nume1,sumar;
 cout<<"Ingrese un numero"<<endl;
