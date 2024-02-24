@@ -21,7 +21,7 @@ if(num1>num2 & num1>num3){
 }
 */
 
-
+/*
      int suma,numero1,numero2=0;
      while(numero2>=0 ) {
          cout<<"Ingresa un numero que desees sumar"<<endl;
@@ -34,8 +34,8 @@ if(num1>num2 & num1>num3){
          cout<<suma<<endl;
          numero1=suma;
      }
-     
-/*
+     */
+
 int u,nume1,sumar;
 cout<<"Ingrese un numero"<<endl;
 cin>>nume1;
@@ -47,6 +47,6 @@ if(nume1%2==0){
     sumar=sumar+nume1;
     cout<<sumar;
 }
- */
+ 
     return 0;
 }
